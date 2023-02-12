@@ -6,7 +6,7 @@
 ### <div align="center">I'm Azhan, a software engineer that helps startup in bring their ideas to life  🚀</div>  
   
 
-- 🌱 I’m currently learning about microservices and devOps  
+- 🌱 I’m currently learning about system design and devOps  
   
 
 <br/>  
