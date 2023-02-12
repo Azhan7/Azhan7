@@ -106,8 +106,8 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Testing GitHub Actions](https://medium.com/@azhanali/testing-github-actions-bb81c2f52f2e?source=rss-b00cd8af3451------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
