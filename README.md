@@ -107,6 +107,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Why Microservices are more complex than you think?](https://medium.com/@azhanali/why-microservices-are-more-complex-than-you-think-d45ac2d9377f?source=rss-b00cd8af3451------2)
 - [Why Microservices are more complex than you think?](https://azhanali.hashnode.dev/why-microservices-are-more-complex-than-you-think)
 - [Why Microservices are more complex than you think ?](https://dev.to/azhan7/why-microservices-are-more-complex-than-you-think--59i7)
 <!-- BLOG-POST-LIST:END -->  
