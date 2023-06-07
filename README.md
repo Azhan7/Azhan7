@@ -107,11 +107,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing the Power of India Stack: Key Takeaways for Pakistan](https://www.azhanali.com/harnessing-the-power-of-india-stack-key-takeaways-for-pakistan)
 - [Why you should &lpar;not&rpar; use GraphQL ?](https://dev.to/azhan7/why-you-should-not-use-graphql--4m3g)
 - [Why you should &lpar;not&rpar; use GraphQL ?](https://medium.com/@azhanali/why-you-should-not-use-graphql-b515f4be15ec?source=rss-b00cd8af3451------2)
-- [Why you should &lpar;not&rpar; use GraphQL ?](https://www.azhanali.com/why-you-should-not-use-graphql)
 - [Why Microservices are more complex than you think?](https://medium.com/@azhanali/why-microservices-are-more-complex-than-you-think-d45ac2d9377f?source=rss-b00cd8af3451------2)
+- [Why Microservices are more complex than you think ?](https://dev.to/azhan7/why-microservices-are-more-complex-than-you-think--59i7)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
