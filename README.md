@@ -107,11 +107,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Sailing Smoothly with Docker: Unleashing the Potential of Containerization](https://www.azhanali.com/sailing-smoothly-with-docker-unleashing-the-potential-of-containerization)
 - [Pakistan&#39;s Agricultural Crossroads: Navigating Challenges and Embracing Opportunities](https://www.azhanali.com/pakistans-agricultural-crossroads-navigating-challenges-and-embracing-opportunities)
 - [Harnessing the Power of India Stack: Key Takeaways for Pakistan](https://www.azhanali.com/harnessing-the-power-of-india-stack-key-takeaways-for-pakistan)
 - [Why you should &lpar;not&rpar; use GraphQL ?](https://dev.to/azhan7/why-you-should-not-use-graphql--4m3g)
 - [Why you should &lpar;not&rpar; use GraphQL ?](https://medium.com/@azhanali/why-you-should-not-use-graphql-b515f4be15ec?source=rss-b00cd8af3451------2)
-- [Why you should &lpar;not&rpar; use GraphQL ?](https://www.azhanali.com/why-you-should-not-use-graphql)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
